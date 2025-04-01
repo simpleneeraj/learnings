@@ -24,3 +24,10 @@ body {
   /* color: var(--foreground); */
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Login Page Css */
+
+.login-page {
+  height: 100vh;
+  background: rgb(108, 200, 169);
+}
